@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alexander/CLionProjects/untitled1/main.cpp
+random
+-
+algorithm
+-
+iostream
+-
+vector
+-
+unistd.h
+-
+
